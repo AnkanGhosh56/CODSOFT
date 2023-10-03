@@ -1,2 +1,2 @@
 # CODSOFT
-Codsoft Internship
+Codsoft Web Development Internship
